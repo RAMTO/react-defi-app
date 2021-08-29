@@ -14,98 +14,62 @@ function Styleguide() {
 
         <div className="row mb-4">
           <div className="col-2 col-md-1">
-            <p
-              className="bg-grey text-center text-white p-2"
-              style={{ borderRadius: '2px' }}
-            >
+            <p className="bg-grey text-center text-white p-2" style={{ borderRadius: '2px' }}>
               Col
             </p>
           </div>
           <div className="col-2 col-md-1">
-            <p
-              className="bg-grey text-center text-white p-2"
-              style={{ borderRadius: '2px' }}
-            >
+            <p className="bg-grey text-center text-white p-2" style={{ borderRadius: '2px' }}>
               Col
             </p>
           </div>
           <div className="col-2 col-md-1">
-            <p
-              className="bg-grey text-center text-white p-2"
-              style={{ borderRadius: '2px' }}
-            >
+            <p className="bg-grey text-center text-white p-2" style={{ borderRadius: '2px' }}>
               Col
             </p>
           </div>
           <div className="col-2 col-md-1">
-            <p
-              className="bg-grey text-center text-white p-2"
-              style={{ borderRadius: '2px' }}
-            >
+            <p className="bg-grey text-center text-white p-2" style={{ borderRadius: '2px' }}>
               Col
             </p>
           </div>
           <div className="col-2 col-md-1">
-            <p
-              className="bg-grey text-center text-white p-2"
-              style={{ borderRadius: '2px' }}
-            >
+            <p className="bg-grey text-center text-white p-2" style={{ borderRadius: '2px' }}>
               Col
             </p>
           </div>
           <div className="col-2 col-md-1">
-            <p
-              className="bg-grey text-center text-white p-2"
-              style={{ borderRadius: '2px' }}
-            >
+            <p className="bg-grey text-center text-white p-2" style={{ borderRadius: '2px' }}>
               Col
             </p>
           </div>
           <div className="col-2 col-md-1">
-            <p
-              className="bg-grey text-center text-white p-2"
-              style={{ borderRadius: '2px' }}
-            >
+            <p className="bg-grey text-center text-white p-2" style={{ borderRadius: '2px' }}>
               Col
             </p>
           </div>
           <div className="col-2 col-md-1">
-            <p
-              className="bg-grey text-center text-white p-2"
-              style={{ borderRadius: '2px' }}
-            >
+            <p className="bg-grey text-center text-white p-2" style={{ borderRadius: '2px' }}>
               Col
             </p>
           </div>
           <div className="col-2 col-md-1">
-            <p
-              className="bg-grey text-center text-white p-2"
-              style={{ borderRadius: '2px' }}
-            >
+            <p className="bg-grey text-center text-white p-2" style={{ borderRadius: '2px' }}>
               Col
             </p>
           </div>
           <div className="col-2 col-md-1">
-            <p
-              className="bg-grey text-center text-white p-2"
-              style={{ borderRadius: '2px' }}
-            >
+            <p className="bg-grey text-center text-white p-2" style={{ borderRadius: '2px' }}>
               Col
             </p>
           </div>
           <div className="col-2 col-md-1">
-            <p
-              className="bg-grey text-center text-white p-2"
-              style={{ borderRadius: '2px' }}
-            >
+            <p className="bg-grey text-center text-white p-2" style={{ borderRadius: '2px' }}>
               Col
             </p>
           </div>
           <div className="col-2 col-md-1">
-            <p
-              className="bg-grey text-center text-white p-2"
-              style={{ borderRadius: '2px' }}
-            >
+            <p className="bg-grey text-center text-white p-2" style={{ borderRadius: '2px' }}>
               Col
             </p>
           </div>
@@ -113,34 +77,22 @@ function Styleguide() {
 
         <div className="row mb-4">
           <div className="col-12 col-md-3">
-            <p
-              className="bg-grey text-center text-white p-2"
-              style={{ borderRadius: '2px' }}
-            >
+            <p className="bg-grey text-center text-white p-2" style={{ borderRadius: '2px' }}>
               Col
             </p>
           </div>
           <div className="col-12 col-md-3">
-            <p
-              className="bg-grey text-center text-white p-2"
-              style={{ borderRadius: '2px' }}
-            >
+            <p className="bg-grey text-center text-white p-2" style={{ borderRadius: '2px' }}>
               Col
             </p>
           </div>
           <div className="col-12 col-md-3">
-            <p
-              className="bg-grey text-center text-white p-2"
-              style={{ borderRadius: '2px' }}
-            >
+            <p className="bg-grey text-center text-white p-2" style={{ borderRadius: '2px' }}>
               Col
             </p>
           </div>
           <div className="col-12 col-md-3">
-            <p
-              className="bg-grey text-center text-white p-2"
-              style={{ borderRadius: '2px' }}
-            >
+            <p className="bg-grey text-center text-white p-2" style={{ borderRadius: '2px' }}>
               Col
             </p>
           </div>
@@ -148,26 +100,17 @@ function Styleguide() {
 
         <div className="row mb-4">
           <div className="col-12 col-md-4">
-            <p
-              className="bg-grey text-center text-white p-2"
-              style={{ borderRadius: '2px' }}
-            >
+            <p className="bg-grey text-center text-white p-2" style={{ borderRadius: '2px' }}>
               Col
             </p>
           </div>
           <div className="col-12 col-md-4">
-            <p
-              className="bg-grey text-center text-white p-2"
-              style={{ borderRadius: '2px' }}
-            >
+            <p className="bg-grey text-center text-white p-2" style={{ borderRadius: '2px' }}>
               Col
             </p>
           </div>
           <div className="col-12 col-md-4">
-            <p
-              className="bg-grey text-center text-white p-2"
-              style={{ borderRadius: '2px' }}
-            >
+            <p className="bg-grey text-center text-white p-2" style={{ borderRadius: '2px' }}>
               Col
             </p>
           </div>
@@ -175,18 +118,12 @@ function Styleguide() {
 
         <div className="row mb-4">
           <div className="col-12 col-md-6">
-            <p
-              className="bg-grey text-center text-white p-2"
-              style={{ borderRadius: '2px' }}
-            >
+            <p className="bg-grey text-center text-white p-2" style={{ borderRadius: '2px' }}>
               Col
             </p>
           </div>
           <div className="col-12 col-md-6">
-            <p
-              className="bg-grey text-center text-white p-2"
-              style={{ borderRadius: '2px' }}
-            >
+            <p className="bg-grey text-center text-white p-2" style={{ borderRadius: '2px' }}>
               Col
             </p>
           </div>
@@ -349,9 +286,7 @@ function Styleguide() {
           <div className="row">
             <div className="col-md-9">
               <code>.text-hero</code>
-              <h1 className="text-hero mt-3">
-                The quick brown fox jumps over the lazy dog
-              </h1>
+              <h1 className="text-hero mt-3">The quick brown fox jumps over the lazy dog</h1>
             </div>
           </div>
         </div>
@@ -362,9 +297,7 @@ function Styleguide() {
           <div className="row">
             <div className="col-md-6">
               <code>.text-mega</code>
-              <h2 className="text-mega mt-3">
-                The quick brown fox jumps over the lazy dog
-              </h2>
+              <h2 className="text-mega mt-3">The quick brown fox jumps over the lazy dog</h2>
             </div>
           </div>
         </div>
@@ -375,9 +308,7 @@ function Styleguide() {
           <div className="row">
             <div className="col-md-5">
               <code>.text-display</code>
-              <h3 className="text-display mt-3">
-                The quick brown fox jumps over the lazy dog
-              </h3>
+              <h3 className="text-display mt-3">The quick brown fox jumps over the lazy dog</h3>
             </div>
           </div>
         </div>
@@ -388,9 +319,7 @@ function Styleguide() {
           <div className="row">
             <div className="col-md-4">
               <code>.text-headline</code>
-              <h4 className="text-headline mt-3">
-                The quick brown fox jumps over the lazy dog
-              </h4>
+              <h4 className="text-headline mt-3">The quick brown fox jumps over the lazy dog</h4>
             </div>
           </div>
         </div>
@@ -401,9 +330,7 @@ function Styleguide() {
           <div className="row">
             <div className="col-md-3">
               <code>.text-title</code>
-              <h5 className="text-title mt-3">
-                The quick brown fox jumps over the lazy dog
-              </h5>
+              <h5 className="text-title mt-3">The quick brown fox jumps over the lazy dog</h5>
             </div>
           </div>
         </div>
@@ -414,9 +341,7 @@ function Styleguide() {
           <div className="row">
             <div className="col-md-3">
               <code>.text-subheader</code>
-              <h6 className="text-subheader mt-3">
-                The quick brown fox jumps over the lazy dog
-              </h6>
+              <h6 className="text-subheader mt-3">The quick brown fox jumps over the lazy dog</h6>
             </div>
           </div>
         </div>
@@ -427,9 +352,7 @@ function Styleguide() {
           <div className="row">
             <div className="col-md-3">
               <code>.text-lead</code>
-              <p className="text-lead mt-3">
-                The quick brown fox jumps over the lazy dog
-              </p>
+              <p className="text-lead mt-3">The quick brown fox jumps over the lazy dog</p>
             </div>
           </div>
         </div>
@@ -440,9 +363,7 @@ function Styleguide() {
           <div className="row">
             <div className="col-md-3">
               <code>.text-main</code>
-              <p className="text-main mt-3">
-                The quick brown fox jumps over the lazy dog
-              </p>
+              <p className="text-main mt-3">The quick brown fox jumps over the lazy dog</p>
             </div>
           </div>
         </div>
@@ -453,9 +374,7 @@ function Styleguide() {
           <div className="row">
             <div className="col-md-2">
               <code>.text-small</code>
-              <p className="text-small mt-3">
-                The quick brown fox jumps over the lazy dog
-              </p>
+              <p className="text-small mt-3">The quick brown fox jumps over the lazy dog</p>
             </div>
           </div>
         </div>
@@ -466,9 +385,7 @@ function Styleguide() {
           <div className="row">
             <div className="col-md-2">
               <code>.text-micro</code>
-              <p className="text-micro mt-3">
-                The quick brown fox jumps over the lazy dog
-              </p>
+              <p className="text-micro mt-3">The quick brown fox jumps over the lazy dog</p>
             </div>
           </div>
         </div>
@@ -541,33 +458,20 @@ function Styleguide() {
           <div className="col-lg-3">
             <div className="form-group mb-5">
               <label>Default input</label>
-              <input
-                type="email"
-                className="form-control"
-                placeholder="name@example.com"
-              />
+              <input type="email" className="form-control" placeholder="name@example.com" />
             </div>
           </div>
           <div className="col-lg-3">
             <div className="form-group mb-5">
               <label>Default input invalid</label>
-              <input
-                type="email"
-                className="form-control is-invalid"
-                placeholder="name@example.com"
-              />
+              <input type="email" className="form-control is-invalid" placeholder="name@example.com" />
               <div className="invalid-feedback">Invalid e-mail.</div>
             </div>
           </div>
           <div className="col-lg-3">
             <div className="form-group mb-5">
               <label>Default input disabled</label>
-              <input
-                type="email"
-                className="form-control"
-                disabled
-                placeholder="name@example.com"
-              />
+              <input type="email" className="form-control" disabled placeholder="name@example.com" />
             </div>
           </div>
         </div>
@@ -575,21 +479,13 @@ function Styleguide() {
         <div className="row mb-4">
           <div className="col-lg-3">
             <div className="form-group mb-5 position-relative">
-              <input
-                type="email"
-                className="form-control floating-form-control"
-                required
-              />
+              <input type="email" className="form-control floating-form-control" required />
               <label className="floating-label">Floating input</label>
             </div>
           </div>
           <div className="col-lg-3">
             <div className="form-group mb-5 position-relative">
-              <input
-                type="email"
-                className="form-control floating-form-control is-invalid"
-                required
-              />
+              <input type="email" className="form-control floating-form-control is-invalid" required />
               <label className="floating-label">Floating input invalid</label>
             </div>
           </div>
@@ -629,11 +525,7 @@ function Styleguide() {
             <div className="form-group mb-5">
               <label>Custom checkbox</label>
               <div className="custom-control custom-checkbox">
-                <input
-                  type="checkbox"
-                  className="custom-control-input"
-                  id="customCheck1"
-                />
+                <input type="checkbox" className="custom-control-input" id="customCheck1" />
                 <label className="custom-control-label" htmlFor="customCheck1">
                   Check this custom checkbox
                 </label>
@@ -644,11 +536,7 @@ function Styleguide() {
             <div className="form-group mb-5">
               <label>Custom checkbox invalid</label>
               <div className="custom-control custom-checkbox">
-                <input
-                  type="checkbox"
-                  className="custom-control-input is-invalid"
-                  id="customCheck2"
-                />
+                <input type="checkbox" className="custom-control-input is-invalid" id="customCheck2" />
                 <label className="custom-control-label" htmlFor="customCheck2">
                   Check this custom checkbox
                 </label>
@@ -662,23 +550,13 @@ function Styleguide() {
             <div className="form-group mb-5">
               <label>Custom radios</label>
               <div className="custom-control custom-radio">
-                <input
-                  type="radio"
-                  id="customRadio1"
-                  name="customRadio"
-                  className="custom-control-input"
-                />
+                <input type="radio" id="customRadio1" name="customRadio" className="custom-control-input" />
                 <label className="custom-control-label" htmlFor="customRadio1">
                   Toggle this custom radio
                 </label>
               </div>
               <div className="custom-control custom-radio">
-                <input
-                  type="radio"
-                  id="customRadio2"
-                  name="customRadio"
-                  className="custom-control-input"
-                />
+                <input type="radio" id="customRadio2" name="customRadio" className="custom-control-input" />
                 <label className="custom-control-label" htmlFor="customRadio2">
                   Or toggle this other custom radio
                 </label>
@@ -689,23 +567,13 @@ function Styleguide() {
             <div className="form-group mb-5">
               <label>Custom radios invalid</label>
               <div className="custom-control custom-radio">
-                <input
-                  type="radio"
-                  id="customRadio3"
-                  name="customRadio1"
-                  className="custom-control-input is-invalid"
-                />
+                <input type="radio" id="customRadio3" name="customRadio1" className="custom-control-input is-invalid" />
                 <label className="custom-control-label" htmlFor="customRadio3">
                   Toggle this custom radio
                 </label>
               </div>
               <div className="custom-control custom-radio">
-                <input
-                  type="radio"
-                  id="customRadio4"
-                  name="customRadio1"
-                  className="custom-control-input is-invalid"
-                />
+                <input type="radio" id="customRadio4" name="customRadio1" className="custom-control-input is-invalid" />
                 <label className="custom-control-label" htmlFor="customRadio4">
                   Or toggle this other custom radio
                 </label>
@@ -718,60 +586,24 @@ function Styleguide() {
 
         <div className="row mb-6">
           <div className="col-lg-6">
-            <div
-              className="alert alert-success alert-dismissible fade show"
-              role="alert"
-            >
-              <strong>Holy guacamole!</strong> You should check in on some of
-              those fields below.
-              <button
-                type="button"
-                className="btn-close"
-                data-bs-dismiss="alert"
-                aria-label="Close"
-              ></button>
+            <div className="alert alert-success alert-dismissible fade show" role="alert">
+              <strong>Holy guacamole!</strong> You should check in on some of those fields below.
+              <button type="button" className="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
             </div>
 
-            <div
-              className="alert alert-info alert-dismissible fade show mt-5"
-              role="alert"
-            >
-              <strong>Holy guacamole!</strong> You should check in on some of
-              those fields below.
-              <button
-                type="button"
-                className="btn-close"
-                data-bs-dismiss="alert"
-                aria-label="Close"
-              ></button>
+            <div className="alert alert-info alert-dismissible fade show mt-5" role="alert">
+              <strong>Holy guacamole!</strong> You should check in on some of those fields below.
+              <button type="button" className="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
             </div>
 
-            <div
-              className="alert alert-warning alert-dismissible fade show mt-5"
-              role="alert"
-            >
-              <strong>Holy guacamole!</strong> You should check in on some of
-              those fields below.
-              <button
-                type="button"
-                className="btn-close"
-                data-bs-dismiss="alert"
-                aria-label="Close"
-              ></button>
+            <div className="alert alert-warning alert-dismissible fade show mt-5" role="alert">
+              <strong>Holy guacamole!</strong> You should check in on some of those fields below.
+              <button type="button" className="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
             </div>
 
-            <div
-              className="alert alert-danger alert-dismissible fade show mt-5"
-              role="alert"
-            >
-              <strong>Holy guacamole!</strong> You should check in on some of
-              those fields below.
-              <button
-                type="button"
-                className="btn-close"
-                data-bs-dismiss="alert"
-                aria-label="Close"
-              ></button>
+            <div className="alert alert-danger alert-dismissible fade show mt-5" role="alert">
+              <strong>Holy guacamole!</strong> You should check in on some of those fields below.
+              <button type="button" className="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
             </div>
           </div>
         </div>
